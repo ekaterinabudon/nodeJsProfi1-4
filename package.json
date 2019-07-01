@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node ."
+  },
+  "name": "4",
+  "version": "1.0.0",
+  "main": "task_4.js",
+  "author": "Ekaterina Budon <ekaterinabudon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
